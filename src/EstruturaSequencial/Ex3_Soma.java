@@ -1,5 +1,10 @@
 package EstruturaSequencial;
 
+/**
+ * Exercício 3
+ * Faça um Programa que peça dois números e imprima a soma.
+ */
+
 import java.util.Scanner;
 
 public class Ex3_Soma {
