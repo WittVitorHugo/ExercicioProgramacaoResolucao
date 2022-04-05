@@ -20,7 +20,7 @@ public class Ex11_Calculo_Inteiros {
         System.out.print("Digite o terceiro numero (real): ");
         double valorReal = input.nextDouble();
 
-        double calculo1 = (valor1*2)*(valor2/2.0);
+        double calculo1 = (valor1*2)*(valor2/2);
         double calculo2 = (valor1*3)+(valorReal);
         double calculo3 = Math.pow(valorReal, 3);
 
