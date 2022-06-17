@@ -1,4 +1,4 @@
-package EstruturaSequencial;
+package br.org.python.ListaDeExercicios.EstruturaSequencial;
 
 // Faça um programa que peça o tamanho de um arquivo para download (em MB) e a
 // velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado

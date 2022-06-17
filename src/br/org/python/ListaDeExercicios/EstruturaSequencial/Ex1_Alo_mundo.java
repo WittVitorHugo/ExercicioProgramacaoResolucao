@@ -1,4 +1,4 @@
-package EstruturaSequencial;
+package br.org.python.ListaDeExercicios.EstruturaSequencial;
 
 /**
  * Exercício 1

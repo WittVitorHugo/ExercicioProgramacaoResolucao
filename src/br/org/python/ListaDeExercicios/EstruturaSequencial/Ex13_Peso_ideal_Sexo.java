@@ -1,4 +1,4 @@
-package EstruturaSequencial;
+package br.org.python.ListaDeExercicios.EstruturaSequencial;
 
 // Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que
 // calcule seu peso ideal, utilizando as seguintes fórmulas:
@@ -22,14 +22,9 @@ public class Ex13_Peso_ideal_Sexo {
         double pesoIdeal = 0d;
 
         switch (opcao) {
-            case 1:
-                pesoIdeal = (72.7*(altura/100)) - 58;
-                break;
-            case 2:
-                pesoIdeal = (62.1*altura/100) - 44.7;
-                break;
-            default:
-                System.out.println("Genero inválido!");
+            case 1 -> pesoIdeal = (72.7 * (altura / 100)) - 58;
+            case 2 -> pesoIdeal = (62.1 * altura / 100) - 44.7;
+            default -> System.out.println("Genero inválido!");
         }
 
         System.out.println("Peso ideal: " + String.format("%.2f", pesoIdeal) + "Kg");

@@ -1,4 +1,4 @@
-package EstruturaSequencial;
+package br.org.python.ListaDeExercicios.EstruturaSequencial;
 
 // Exercicio 8
 // Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.

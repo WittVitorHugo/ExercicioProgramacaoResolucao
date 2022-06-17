@@ -1,6 +1,6 @@
-package EstruturaSequencial;
+package br.org.python.ListaDeExercicios.EstruturaSequencial;
 
-/**
+/*
  * Exercício 3
  * Faça um Programa que peça dois números e imprima a soma.
  */

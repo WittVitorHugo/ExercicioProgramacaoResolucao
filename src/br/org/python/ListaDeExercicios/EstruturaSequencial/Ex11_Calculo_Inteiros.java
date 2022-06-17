@@ -1,4 +1,4 @@
-package EstruturaSequencial;
+package br.org.python.ListaDeExercicios.EstruturaSequencial;
 
 // Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
 // o produto do dobro do primeiro com metade do segundo.

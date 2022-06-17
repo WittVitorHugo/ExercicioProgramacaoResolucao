@@ -1,8 +1,8 @@
-package EstruturaSequencial;
+package br.org.python.ListaDeExercicios.EstruturaSequencial;
 
-/**
- * Exercício 5
- * Faça um Programa que converta metros para centímetros.
+/*
+  Exercício 5
+  Faça um Programa que converta metros para centímetros.
  */
 
 import java.util.Scanner;
